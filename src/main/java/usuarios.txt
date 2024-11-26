@@ -1,0 +1,2 @@
+admin,admin@natatoys.com,admin123,miguel
+cliente,cliente@exemplo.com,senha123,mike
